@@ -3,7 +3,10 @@
 #include "Header.h"
 using namespace std;
 int main() {
-	if (!sds())
-  cout << "I love you" << endl;
+	if (!sds()) {
+		Cou();
+		cout << endl;
+		cout << "I love you" << endl;
+	}
   system("pause");
 }
